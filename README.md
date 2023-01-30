@@ -1,8 +1,8 @@
 <h1 align='center'>
   Hi there 👋 I'm Jimmy 💻
 </h1>
-<h1>
-  - 📍 Currently based in Irvine, CA and open to opportunities in the Orange County or Los Angeles area, or remote
+<h1 align='center'>
+ 📍 Currently based in Irvine, CA and open to opportunities in the Orange County or Los Angeles area, or remote
 </h1>
 
 <p align='center'>
