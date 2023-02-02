@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-I am a full stack software engineer. My previous background in the autmobile and finance industry gives me a unique strength in communication and problem-solving, allowing me to thrive in collaborative teams and high pressure environments. I love learning about new technologies, the impact they have, and the pros and cons of each. My goal is one day leading a software engineering team of my own.
+I am a full stack software engineer. My previous background in the autmobile and finance industry gives me a unique strength in communication and problem-solving, allowing me to thrive in collaborative teams and high pressure environments. I love learning about new technologies, the impact they have. 
 </p>
 
 - 🌱 Looking for job opportunities to continue growing my experience with the full stack
