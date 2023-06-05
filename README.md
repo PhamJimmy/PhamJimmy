@@ -5,7 +5,7 @@
  📍 Currently based in Irvine, CA and open to opportunities in the Orange County or Los Angeles area, or remote
 </h1>
 <h1 align='center'>
-  Check out my personal portfolio here: <a src='https://jimmy-pham.com/'>jimmy-pham.com</a>
+  Check out my personal portfolio here: [jimmy-pham.com](https://jimmy-pham.com/)
 </h1>
 
 <p align='center'>
