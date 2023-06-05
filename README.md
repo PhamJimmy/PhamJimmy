@@ -4,6 +4,9 @@
 <h1 align='center'>
  📍 Currently based in Irvine, CA and open to opportunities in the Orange County or Los Angeles area, or remote
 </h1>
+<h1 align='center'>
+  Check out my personal portfolio here: <a src='https://jimmy-pham.com/'>jimmy-pham.com</a>
+</h1>
 
 <p align='center'>
 I am a full stack software engineer. My previous background in the autmobile and finance industry gives me a unique strength in communication and problem-solving, allowing me to thrive in collaborative teams and high pressure environments. I love learning about new technologies, the impact they have. 
