@@ -2,7 +2,7 @@
   Hi there 👋 I'm Jimmy 💻
 </h1>
 <h1 align='center'>
- 📍 Currently based in Irvine, CA and open to opportunities in the Orange County or Los Angeles area, or remote
+ 📍 Currently based in Irvine, CA, and open to new opportunities!
 </h1>
 <h2 align='center'>
   Check out my personal portfolio here: <a href="https://jimmy-pham.com/">jimmy-pham.com</a>
